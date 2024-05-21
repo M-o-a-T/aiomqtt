@@ -1,0 +1,5 @@
+aiomqtt (v2.1.0-1) unstable; urgency=medium
+
+  * Initial Debianization.
+
+ -- Matthias Urlichs <matthias@urlichs.de>  Tue, 21 May 2024 09:39:38 +0200
